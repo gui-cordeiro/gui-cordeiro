@@ -1,7 +1,8 @@
 # Olá, eu sou o Guilherme Cordeiro! 👋🏽
 
+<a href="https://bit.ly/2SdZP9E"><img align="right" alt="GIFCode" src="https://bit.ly/3irZB9B"></a>
+
 <ul>
-    <a href="https://bit.ly/2SdZP9E"><img align="right" alt="GIFCode" src="https://bit.ly/3irZB9B"></a>
     <li>🤓 <strong>Seja bem vindo ao meu perfil do GitHub!</strong>
     <li>🧠 Tenho grande interesse na área do desenvolvimento web, principalmente no <strong><em>front-end</em></strong>, mas também gosto de desenvolver no <strong><em>back-end</em></strong> também (PHP❤️)!
     <li>📚 Atualmente eu estou querendo aprimorar os meus conhecimentos em diversas linguagens, principalmente com o JavaScript (a começar pelo <strong><em>jQuery</em></strong> e depois pelo <strong><em>AJAX</em></strong>)
