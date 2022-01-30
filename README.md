@@ -2,7 +2,7 @@
 
 <span>
     <img align="left" src="https://user-images.githubusercontent.com/83349463/151700945-528d4eca-a84f-4159-9d17-975eaadbdefc.gif"/>
-    <a href="#"><img align="right" alt="Ícone do PHP" width="55em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
+    <a href="#"><img align="right" alt="Ícone transparente" width="45em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
     <img align="right" alt="Ícone do Arduino" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"/>
     <img align="right" alt="Ícone do MySQL" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
     <img align="right" alt="Ícone do Java" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
@@ -11,7 +11,7 @@
 
 <br>
 
-<a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg"><img align="right" height="320em" alt="GIFCode" src="https://user-images.githubusercontent.com/83349463/151668935-a7928576-7b30-41ae-ab3c-255304350ce0.gif"></a>
+<a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg"><img align="right" height="300em" alt="GIFCode" src="https://user-images.githubusercontent.com/83349463/151668935-a7928576-7b30-41ae-ab3c-255304350ce0.gif"></a>
 
 > *"Necessitamos sempre de ambicionar alguma coisa que, alcançada, não nos torna sem ambição."* <br>
 > Carlos Drummond de Andrade
@@ -30,7 +30,7 @@
 </span>
 
 <span>
-    <a href="#"><img align="right" alt="Ícone do PHP" width="55em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
+    <a href="#"><img align="right" alt="Ícone transparente" width="45em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
     <img align="right" alt="Ícone do PHP" width="30em"src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
     <img align="right" alt="Ícone do JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
     <img align="right" alt="Ícone das CSS" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
