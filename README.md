@@ -1,7 +1,7 @@
 # *"Hello, World"*. Eu sou o Guilherme Cordeiro 🤓👋🏽
 
 <span>
-    <img align="left" width="480em" height="40em" src="https://user-images.githubusercontent.com/83349463/151698864-323fe317-ae2a-4685-94fd-0cea3685f7da.gif"/>
+    <img align="left" src="https://user-images.githubusercontent.com/83349463/151700945-528d4eca-a84f-4159-9d17-975eaadbdefc.gif"/>
     <a href="#"><img align="right" alt="Ícone do PHP" width="55em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
     <img align="right" alt="Ícone do Arduino" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"/>
     <img align="right" alt="Ícone do MySQL" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
