@@ -16,8 +16,8 @@
 > *"Necessitamos sempre de ambicionar alguma coisa que, alcançada,<br>não nos torna sem ambição."* <br>
 > Carlos Drummond de Andrade
 <ul>
-    <li>🧠 Atualmente busco me desenvolver como um Dev <em>Front-End</em> na área de<br>desenvolvimento web;
-    <li>📚 Tenho experiência na criação de projetos com Arduino e ESP8266, com<br>foco em <em>Internet of Things</em>, domótica e robótica;
+    <li>🧠 Atualmente busco me desenvolver como um Dev <em>Front-End</em> na<br>área de desenvolvimento web;
+    <li>📚 Tenho experiência na criação de projetos com Arduino e ESP8266,<br>com foco em <em>Internet of Things</em>, domótica e robótica;
     <li>📫 <ins><strong>Quer entrar em contato comigo?</strong></ins> Acesse as minhas redes sociais<br>abaixo, ou envie um e-mail para mim!
 </ul>
 <br><br>
