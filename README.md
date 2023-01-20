@@ -16,17 +16,17 @@
 > *"Necessitamos sempre de ambicionar alguma coisa que, alcançada,<br>não nos torna sem ambição."* <br>
 > Carlos Drummond de Andrade
 <ul>
-    <li>🧠 Busco me desenvolver como um Dev <em>Front-End</em> na área de desenvolvimento web;
-    <li>📚 Também tenho experiência em soluções de Internet das Coisas, automação e<br>de robótica, utilizando microcontroladores como o Arduino e o ESP8266;
-    <li>📫 <ins><strong>Quer entrar em contato comigo? Acesse as minhas redes sociais<br>abaixo, ou envie um e-mail para mim!</strong></ins>
-    <li>🤓 Visite o meu canal do YouTube em parceria com o <a href="https://github.com/artmehl", target="_blank" rel="external">@artmehl</a>: o <strong>MehlCor Tech</strong>!
+    <li>🧠 Atualmente busco me desenvolver como um Dev <em>Front-End</em> na área de<br>desenvolvimento web;
+    <li>📚 Tenho experiência na criação de projetos com Arduino e ESP8266, com<br>foco em <em>Internet of Things</em>, domótica e robótica;
+    <li>📫 <ins><strong>Quer entrar em contato comigo?</strong></ins> Acesse as minhas redes sociais<br>abaixo, ou envie um e-mail para mim!
 </ul>
 <br><br>
 <span>
-    <a href="https://bit.ly/MehlCorTech-YT" target="_blank" rel="external"><img src="https://bit.ly/3w5kACN" alt="YouTube"></a>
+    <a href="https://bit.ly/MehlCorTech-YT" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="https://bit.ly/3uhrXFA" target="_blank" rel="external"><img src="https://bit.ly/2TVzs8Z" alt="Twitter"></a>
+    <a href="https://bit.ly/3uhrXFA" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://bit.ly/3vkdnyw" target="_blank" rel="external"><img src="https://bit.ly/2SbOR4x" alt="LinkedIn"></a>
-    <a href="mailto: guisg.cordeiro@gmail.com" target="_blank" rel="external"><img src="https://bit.ly/3v5jN3I" alt="Gmail"></a>
+    <a href="mailto: guisg.cordeiro@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </span>
 
 <span>
