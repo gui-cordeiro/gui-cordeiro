@@ -49,7 +49,7 @@
     <!-- Botão do YouTube e seu link direto -->
     <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-MehlCor%20Tech-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
     <!-- Botão do Twitter/X e seu link direto -->
-    <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter%20/%20X-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter/X pessoal"></a>
+    <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
     <!-- Botão do Instagram e seu link direto -->
     <a href="https://bit.ly/47eH6we"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link do Instagram Pessoal"></a>
     <!-- Botão do LinkedIn e seu link direto -->
