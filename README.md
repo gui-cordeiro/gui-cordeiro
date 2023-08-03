@@ -52,10 +52,6 @@
     <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter%20/%20X-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter/X pessoal"></a>
     <!-- Botão do Instagram e seu link direto -->
     <a href="https://bit.ly/47eH6we"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link do Instagram Pessoal"></a>
-    <!-- Botão do LinkedIn e seu link direto -->
-    <a href="https://bit.ly/3vkdnyw"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn Pessoal"></a>
-    <!-- Botão do Gmail e seu link direto para entrar em contato -->
-    <a href="mailto: guisg.cordeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23bf0d00?style=for-the-badge&logo=gmail&logoColor=white" alt="Link do e-mail para contato"></a>
 </span>
 
 <span>
@@ -66,6 +62,13 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference"><img align="right" alt="Ícone do JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"><img align="right" alt="Ícone das CSS" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference"><img align="right" alt="Ícone da HTML" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
+</span>
+<br>
+<span>
+<!-- Botão do LinkedIn e seu link direto -->
+    <a href="https://bit.ly/3vkdnyw"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn Pessoal"></a>
+    <!-- Botão do Gmail e seu link direto para entrar em contato -->
+    <a href="mailto: guisg.cordeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23bf0d00?style=for-the-badge&logo=gmail&logoColor=white" alt="Link do e-mail para contato"></a>
 </span>
 
 ##
