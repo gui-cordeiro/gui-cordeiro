@@ -9,11 +9,6 @@
     Olá, me chamo Gui! 🤓
     <img src="https://github.com/gui-cordeiro/gui-cordeiro/assets/83349463/d7fcfeb5-334b-4b4d-ab73-a460a935d004" height="30px"/>
 </h1>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=gui-cordeiro&color=0a2345"/>
-</div>
-
-<br>
 
 <span>
     <!-- Este é o banner de boas vindas em GIF (do "Bem-vindo/Bem-vinda/Bem-vinde"), feita por mim mesmo no site Canva! -->
