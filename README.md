@@ -2,10 +2,18 @@
     Olá querido/querida/queride visitante! Neste documento README.md, você verá vários comentários a respeito dos elementos presentes aqui em Markdown e em HTML/CSS, com o intuito de facilitar o entendimento da estrutura desse documento e consequentemente para poder servir de base para qualquer um que queira montar o seu README.md próprio.
     Fique à vontade, e espero que te ajude a criar uma "homepage" bem bonita e completa para o seu GitHub!
 
-    OBS.: Minha "homepage" foi inspirada na da "@rafaballerini". Muito obrigado, Rafa!
+    OBS.: Esse meu readme.md foi inspirada no da "@rafaballerini". Muito obrigado, Rafa!
 -->
 
-# Olá, me chamo Gui! 🤓👋🏽
+<h1 align="center">
+    Olá, me chamo Gui! 🤓
+    <img src="https://github.com/gui-cordeiro/gui-cordeiro/assets/83349463/d7fcfeb5-334b-4b4d-ab73-a460a935d004" height="30px"/>
+</h1>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=gui-cordeiro&color=0a2345"/>
+</div>
+
+<br>
 
 <span>
     <!-- Este é o banner de boas vindas em GIF (do "Bem-vindo/Bem-vinda/Bem-vinde"), feita por mim mesmo no site Canva! -->
@@ -70,11 +78,19 @@
 
 ##
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gui-cordeiro&theme=react-dark&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="">
+      <img alt="" src="">
+    </picture>
+</a>
+
 <!-- Este são as tabelas de estatísticas do meu perfil. Para mais detalhes sobre como criar e personalizar as suas próprias tabelas, visite o repositório "https://github.com/anuraghazra/github-readme-stats" -->
 <div align="center">
-    <a href="https://github.com/gui-cordeiro">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=transparent&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=transparent&layout=compact&locale=pt-br&langs_count=7&PAT_01">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=transparent&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01&hide_border=true">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=transparent&layout=compact&locale=pt-br&langs_count=7&PAT_01&hide_border=true">
     </a>
 </div>
 
