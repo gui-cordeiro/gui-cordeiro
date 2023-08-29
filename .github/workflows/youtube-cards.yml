@@ -19,3 +19,7 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
+          lang: pt
+          author_name: gui-cordeiro
+          author_email: guisg.cordeiro@gmail.com
+          max_title_lines: 2

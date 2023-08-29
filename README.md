@@ -70,7 +70,7 @@
 
 ---
 
-### 📺 Principais vídeos do canal do YouTube MehlCor Tech junto com @artmehl:
+### 📺 Principais vídeos do canal do YouTube MehlCor Tech junto com [@artmehl](https://github.com/artmehl):
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ESP 8266 - Como utilizar um módulo relé](https://ytcards.demolab.com/?id=6eYc6gmlF9U&title=ESP+8266+-+Como+utilizar+um+m%C3%B3dulo+rel%C3%A9&lang=en&timestamp=1678572002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1444 "ESP 8266 - Como utilizar um módulo relé")](https://www.youtube.com/watch?v=6eYc6gmlF9U)
 [![Personalizando o Garuda Linux (Garuda Dr460nized)](https://ytcards.demolab.com/?id=UlA3xTt6S2Q&title=Personalizando+o+Garuda+Linux+%28Garuda+Dr460nized%29&lang=en&timestamp=1675004427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=641 "Personalizando o Garuda Linux (Garuda Dr460nized)")](https://www.youtube.com/watch?v=UlA3xTt6S2Q)
@@ -79,6 +79,7 @@
 [![ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)](https://ytcards.demolab.com/?id=OvrxyMAQR4s&title=ESP+8266+-+Como+programar+o+ESP12+%28N%C3%ADvel+2%3A+Placa+perfurada%29&lang=en&timestamp=1673557215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1511 "ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)")](https://www.youtube.com/watch?v=OvrxyMAQR4s)
 [![Jornada Manjaro #5 - Configurando o Github e o PlatformIO](https://ytcards.demolab.com/?id=5xBNUDOqPsM&title=Jornada+Manjaro+%235+-+Configurando+o+Github+e+o+PlatformIO&lang=en&timestamp=1667833204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1326 "Jornada Manjaro #5 - Configurando o Github e o PlatformIO")](https://www.youtube.com/watch?v=5xBNUDOqPsM)
 <!-- END YOUTUBE-CARDS -->
+<a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-Mais%20v%C3%ADdeos%20de%20MehlCor%20Tech-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
 #
 <!-- Este são as tabelas de estatísticas do meu perfil. Para mais detalhes sobre como criar e personalizar as suas próprias tabelas, visite o repositório "https://github.com/anuraghazra/github-readme-stats" -->
 <div align="center">
