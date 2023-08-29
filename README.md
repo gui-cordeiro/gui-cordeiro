@@ -87,8 +87,8 @@
 <!-- Este são as tabelas de estatísticas do meu perfil. Para mais detalhes sobre como criar e personalizar as suas próprias tabelas, visite o repositório "https://github.com/anuraghazra/github-readme-stats" -->
 <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=transparent&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=transparent&layout=compact&locale=pt-br&langs_count=7&PAT_01">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=calm&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=calm&layout=compact&locale=pt-br&langs_count=7&PAT_01">
     </a>
 </div>
 
