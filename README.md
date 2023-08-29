@@ -46,8 +46,6 @@
     Para mais informações, acesse o site "https://shields.io/".
 -->
 <span>
-    <!-- Botão do YouTube e seu link direto -->
-    <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-YouTube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
     <!-- Botão do Twitter/X e seu link direto -->
     <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
     <!-- Botão do Instagram e seu link direto -->
@@ -80,13 +78,34 @@
 [![Jornada Manjaro #5 - Configurando o Github e o PlatformIO](https://ytcards.demolab.com/?id=5xBNUDOqPsM&title=Jornada+Manjaro+%235+-+Configurando+o+Github+e+o+PlatformIO&lang=pt&timestamp=1667833204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1326 "Jornada Manjaro #5 - Configurando o Github e o PlatformIO")](https://www.youtube.com/watch?v=5xBNUDOqPsM)
 <!-- END YOUTUBE-CARDS -->
 <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-Mais%20v%C3%ADdeos%20de%20MehlCor%20Tech-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
+
 #
+
+### 📊 Estatísticas do Perfil
 <!-- Este são as tabelas de estatísticas do meu perfil. Para mais detalhes sobre como criar e personalizar as suas próprias tabelas, visite o repositório "https://github.com/anuraghazra/github-readme-stats" -->
-<div align="center">
+<div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=transparent&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=transparent&layout=compact&locale=pt-br&langs_count=7&PAT_01">
     </a>
 </div>
 
+#
+
+<details>
+    <summary><h3>✏️ Um pouco mais sobre mim</h3></summary>
+Meu nome é Guilherme Cordeiro, sou técnico em Informática formado pelo Instituto Federal do Paraná e tenho interesse em seguir na área de desenvolvimento web Front End. Durante o curso técnico, pude estudar:
+
+- Diversas linguagens de programação e de marcação, como C, Java, PHP, MySQL, HTML, CSS e JavaScript, além de poder desenvolver aplicações Android com o Android Studio;
+- A como gerenciar corretamente a criação de um software a partir das etapas de planejamento, gerenciamento, construção, implementação e manutenção de um projeto;
+- A como desenvolver ideias e utilizá-las como fonte para a criação de projetos inovadores (através dos conhecimentos técnicos adquiridos e, sobretudo, da criatividade), com o objetivo de solucionar problemas no contexto social de maneira inteligente e sustentável.
+
+Citarei alguns projetos no qual eu desenvolvi em conjunto com outros colegas (todos eles desenvolvidos com microcontroladores Arduino e ESP8266): 
+
+ - A implementação de um sistema de automação residencial de baixo custo, com monitoramento local via servidor web (projeto criado e apresentado sob a forma de Trabalho de Conclusão de Curso); e
+ - A implementação de uma estação meteorológica de baixo custo para monitoramento climático de locais remotos (particularmente áreas rurais) e/ou de difícil acesso, via aplicativo móvel. Este projeto, por sua vez, obteve diversos prêmios em vários eventos e workshops, tais como:
+
+     - 1º lugar na "11ª Mostra de Soluções Para Uma Vida Melhor", organizada pelo Colégio Positivo em Curitiba - PR, na categoria "Melhor Estande";
+     - 1º lugar no 8º Fórum Internacional Ecoinovar, realizado em Santa Maria - RS, na categoria "Ensino Técnico".
+</details>
 <!-- Feito com ❤️ por Gui Cordeiro -->
