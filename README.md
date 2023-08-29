@@ -68,16 +68,12 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference"><img align="right" alt="Ícone da HTML" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
 </span>
 
-##
+---
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gui-cordeiro&theme=react-dark&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="">
-      <img alt="" src="">
-    </picture>
-</a>
-
+### 📺 Principais vídeos do canal do YouTube MehlCor Tech junto com @artmehl:
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+#
 <!-- Este são as tabelas de estatísticas do meu perfil. Para mais detalhes sobre como criar e personalizar as suas próprias tabelas, visite o repositório "https://github.com/anuraghazra/github-readme-stats" -->
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
