@@ -70,7 +70,7 @@
 
 ---
 
-### 📺 Principais vídeos do canal do YouTube MehlCor Tech junto com [@artmehl](https://github.com/artmehl):
+### 📺 Últimos vídeos do canal MehlCor Tech, feitos em parceria com Arthur Mehl ([@artmehl](https://github.com/artmehl)):
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ESP 8266 - Como utilizar um módulo relé](https://ytcards.demolab.com/?id=6eYc6gmlF9U&title=ESP+8266+-+Como+utilizar+um+m%C3%B3dulo+rel%C3%A9&lang=ptbr&timestamp=1678572002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1444 "ESP 8266 - Como utilizar um módulo relé")](https://www.youtube.com/watch?v=6eYc6gmlF9U#gh-dark-mode-only)[![ESP 8266 - Como utilizar um módulo relé](https://ytcards.demolab.com/?id=6eYc6gmlF9U&title=ESP+8266+-+Como+utilizar+um+m%C3%B3dulo+rel%C3%A9&lang=ptbr&timestamp=1678572002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1444 "ESP 8266 - Como utilizar um módulo relé")](https://www.youtube.com/watch?v=6eYc6gmlF9U#gh-light-mode-only)
 [![Personalizando o Garuda Linux (Garuda Dr460nized)](https://ytcards.demolab.com/?id=UlA3xTt6S2Q&title=Personalizando+o+Garuda+Linux+%28Garuda+Dr460nized%29&lang=ptbr&timestamp=1675004427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=641 "Personalizando o Garuda Linux (Garuda Dr460nized)")](https://www.youtube.com/watch?v=UlA3xTt6S2Q#gh-dark-mode-only)[![Personalizando o Garuda Linux (Garuda Dr460nized)](https://ytcards.demolab.com/?id=UlA3xTt6S2Q&title=Personalizando+o+Garuda+Linux+%28Garuda+Dr460nized%29&lang=ptbr&timestamp=1675004427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=641 "Personalizando o Garuda Linux (Garuda Dr460nized)")](https://www.youtube.com/watch?v=UlA3xTt6S2Q#gh-light-mode-only)
@@ -79,32 +79,42 @@
 [![ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)](https://ytcards.demolab.com/?id=OvrxyMAQR4s&title=ESP+8266+-+Como+programar+o+ESP12+%28N%C3%ADvel+2%3A+Placa+perfurada%29&lang=ptbr&timestamp=1673557215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1511 "ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)")](https://www.youtube.com/watch?v=OvrxyMAQR4s#gh-dark-mode-only)[![ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)](https://ytcards.demolab.com/?id=OvrxyMAQR4s&title=ESP+8266+-+Como+programar+o+ESP12+%28N%C3%ADvel+2%3A+Placa+perfurada%29&lang=ptbr&timestamp=1673557215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1511 "ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)")](https://www.youtube.com/watch?v=OvrxyMAQR4s#gh-light-mode-only)
 [![Jornada Manjaro #5 - Configurando o Github e o PlatformIO](https://ytcards.demolab.com/?id=5xBNUDOqPsM&title=Jornada+Manjaro+%235+-+Configurando+o+Github+e+o+PlatformIO&lang=ptbr&timestamp=1667833204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1326 "Jornada Manjaro #5 - Configurando o Github e o PlatformIO")](https://www.youtube.com/watch?v=5xBNUDOqPsM#gh-dark-mode-only)[![Jornada Manjaro #5 - Configurando o Github e o PlatformIO](https://ytcards.demolab.com/?id=5xBNUDOqPsM&title=Jornada+Manjaro+%235+-+Configurando+o+Github+e+o+PlatformIO&lang=ptbr&timestamp=1667833204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1326 "Jornada Manjaro #5 - Configurando o Github e o PlatformIO")](https://www.youtube.com/watch?v=5xBNUDOqPsM#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
-<a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-Mais%20v%C3%ADdeos%20de%20MehlCor%20Tech-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
+<a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-Assista%20à%20mais%20vídeos-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
 
 #
 
-### 📊 Estatísticas do Perfil
+### 📋 Últimos artigos publicados no meu blog do Medium:
+<div>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/0" alt="Último artigo publicado"></a>
+</div>
+<br>
+<a href="https://gui-cordeiro.medium.com/"><img src="https://img.shields.io/badge/-Leia%20mais%20artigos-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Link do meu blog pessoal do Medium"></a>
+
+---
+
+### 📊 Estatísticas
 <!-- Este são as tabelas de estatísticas do meu perfil. Para mais detalhes sobre como criar e personalizar as suas próprias tabelas, visite o repositório "https://github.com/anuraghazra/github-readme-stats" -->
 <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=calm_pink&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=calm_pink&layout=compact&locale=pt-br&langs_count=7&PAT_01">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=calm_pink&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=calm_pink&layout=compact&locale=pt-br&langs_count=7&PAT_01">
     </a>
 </div>
 
 #
 
 <details>
-    <summary><h3>✏️ Um pouco mais sobre mim</h3></summary>
-Meu nome é Guilherme Cordeiro, sou técnico em Informática formado pelo Instituto Federal do Paraná e tenho interesse em seguir na área de desenvolvimento web Front End. Durante o curso técnico, pude estudar:
+    <summary><h3>✏️ Sobre mim</h3></summary>
+Meu nome é <strong>Guilherme Cordeiro</strong>, sou <strong>técnico em Informática</strong> formado pelo Instituto Federal do Paraná e tenho interesse em seguir na <strong>área de desenvolvimento web Front End</strong>. Durante o curso técnico, pude estudar:
 
-- Diversas linguagens de programação e de marcação, como C, Java, PHP, MySQL, HTML, CSS e JavaScript, além de poder desenvolver aplicações Android com o Android Studio;
-- A como gerenciar corretamente a criação de um software a partir das etapas de planejamento, gerenciamento, construção, implementação e manutenção de um projeto;
-- A como desenvolver ideias e utilizá-las como fonte para a criação de projetos inovadores (através dos conhecimentos técnicos adquiridos e, sobretudo, da criatividade), com o objetivo de solucionar problemas no contexto social de maneira inteligente e sustentável.
+- Diversas linguagens de programação e de marcação, como <strong>C, Java, PHP, MySQL, HTML, CSS e JavaScript</strong>, além de poder desenvolver aplicações <strong>Android com o Android Studio</strong>;
+- A como gerenciar corretamente a criação de um software a partir das etapas de <strong>planejamento, gerenciamento, construção, implementação e manutenção de um projeto</strong>;
+- A como desenvolver ideias e utilizá-las como fonte para <strong>a criação de projetos inovadores</strong> (através dos conhecimentos técnicos adquiridos e, sobretudo, da criatividade), com o objetivo de <strong>solucionar problemas no contexto social de maneira inteligente e sustentável</strong>.
 
-Citarei alguns projetos no qual eu desenvolvi em conjunto com outros colegas (todos eles desenvolvidos com microcontroladores Arduino e ESP8266): 
+Citarei alguns projetos no qual eu desenvolvi em conjunto com outros colegas (todos eles desenvolvidos com microcontroladores <em>Arduino</em> e <em>ESP8266</em>): 
 
 - A implementação de um sistema de automação residencial de baixo custo, com monitoramento local via servidor web (projeto criado e apresentado sob a forma de Trabalho de Conclusão de Curso); e
-- A implementação de uma estação meteorológica de baixo custo para monitoramento climático de locais remotos (particularmente áreas rurais) e/ou de difícil acesso, via aplicativo móvel.
+- A implementação de uma estação meteorológica de baixo custo para monitoramento climático de locais remotos (particularmente áreas rurais) e/ou de difícil acesso, via aplicativo mobile.
 </details>
+
 <!-- Feito com ❤️ por Gui Cordeiro -->
