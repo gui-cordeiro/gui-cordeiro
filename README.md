@@ -47,7 +47,7 @@
 -->
 <span>
     <!-- Botão do YouTube e seu link direto -->
-    <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-MehlCor%20Tech-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
+    <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-YouTube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
     <!-- Botão do Twitter/X e seu link direto -->
     <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
     <!-- Botão do Instagram e seu link direto -->
@@ -84,8 +84,8 @@
 <!-- Este são as tabelas de estatísticas do meu perfil. Para mais detalhes sobre como criar e personalizar as suas próprias tabelas, visite o repositório "https://github.com/anuraghazra/github-readme-stats" -->
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=transparent&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01&hide_border=true">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=transparent&layout=compact&locale=pt-br&langs_count=7&PAT_01&hide_border=true">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui-cordeiro&theme=transparent&include_all_commits=true&show_icons=true&locale=pt-br&PAT_01">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-cordeiro&theme=transparent&layout=compact&locale=pt-br&langs_count=7&PAT_01">
     </a>
 </div>
 
