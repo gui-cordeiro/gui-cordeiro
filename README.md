@@ -46,6 +46,8 @@
     Para mais informações, acesse o site "https://shields.io/".
 -->
 <span>
+    <!-- Botão do YouTube e seu link direto -->
+    <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-YouTube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
     <!-- Botão do Twitter/X e seu link direto -->
     <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
     <!-- Botão do Instagram e seu link direto -->
