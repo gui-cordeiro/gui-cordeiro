@@ -104,10 +104,7 @@ Meu nome é Guilherme Cordeiro, sou técnico em Informática formado pelo Instit
 
 Citarei alguns projetos no qual eu desenvolvi em conjunto com outros colegas (todos eles desenvolvidos com microcontroladores Arduino e ESP8266): 
 
- - A implementação de um sistema de automação residencial de baixo custo, com monitoramento local via servidor web (projeto criado e apresentado sob a forma de Trabalho de Conclusão de Curso); e
- - A implementação de uma estação meteorológica de baixo custo para monitoramento climático de locais remotos (particularmente áreas rurais) e/ou de difícil acesso, via aplicativo móvel. Este projeto, por sua vez, obteve diversos prêmios em vários eventos e workshops, tais como:
-
-     - 1º lugar na "11ª Mostra de Soluções Para Uma Vida Melhor", organizada pelo Colégio Positivo em Curitiba - PR, na categoria "Melhor Estande";
-     - 1º lugar no 8º Fórum Internacional Ecoinovar, realizado em Santa Maria - RS, na categoria "Ensino Técnico".
+- A implementação de um sistema de automação residencial de baixo custo, com monitoramento local via servidor web (projeto criado e apresentado sob a forma de Trabalho de Conclusão de Curso); e
+- A implementação de uma estação meteorológica de baixo custo para monitoramento climático de locais remotos (particularmente áreas rurais) e/ou de difícil acesso, via aplicativo móvel.
 </details>
 <!-- Feito com ❤️ por Gui Cordeiro -->
