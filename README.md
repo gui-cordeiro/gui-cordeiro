@@ -49,16 +49,16 @@
     <span>
         <!-- Botão do YouTube e seu link direto -->
         <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-YouTube-%23bf0d00?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
-        <!-- Botão do Twitter/X e seu link direto -->
-        <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
-        <!-- Botão do Instagram e seu link direto -->
-        <a href="https://bit.ly/47eH6we"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link do Instagram pessoal"></a>
+        <!-- Botão do Medium e seu link direto -->
+        <a href="https://gui-cordeiro.medium.com/"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Link do Medium Pessoal"></a>
         <!-- Botão do LinkedIn e seu link direto -->
         <a href="https://bit.ly/3vkdnyw"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn Pessoal"></a>
         <!-- Botão do Gmail e seu link direto para entrar em contato -->
         <a href="mailto: guisg.cordeiro@gmail.com"><img src="https://img.shields.io/badge/-E--mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Link do e-mail para contato"></a>
-        <!-- Botão do Medium e seu link direto -->
-        <a href="https://gui-cordeiro.medium.com/"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Link do Medium Pessoal"></a>
+        <!-- Botão do Twitter/X e seu link direto -->
+        <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
+        <!-- Botão do Instagram e seu link direto -->
+        <a href="https://bit.ly/47eH6we"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link do Instagram pessoal"></a>
     <span>
         <!-- Este é um outro ícone transparente que irá "centralizar" os ícones seguintes -->
         <a href="#"><img align="right" alt="Ícone transparente" width="45em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
