@@ -45,30 +45,33 @@
 
     Para mais informações, acesse o site "https://shields.io/".
 -->
+<div>
+    <span>
+        <!-- Botão do YouTube e seu link direto -->
+        <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-YouTube-%23bf0d00?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
+        <!-- Botão do Medium e seu link direto -->
+        <a href="https://gui-cordeiro.medium.com/"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Link do Medium Pessoal"></a>
+        <!-- Botão do LinkedIn e seu link direto -->
+        <a href="https://bit.ly/3vkdnyw"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn Pessoal"></a>
+        <!-- Botão do Instagram e seu link direto -->
+        <a href="https://bit.ly/47eH6we"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link do Instagram pessoal"></a>
+        <!-- Botão do Twitter/X e seu link direto -->
+        <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
+    </span>
+    <span>
+        <!-- Este é um outro ícone transparente que irá "centralizar" os ícones seguintes -->
+        <a href="#"><img align="right" alt="Ícone transparente" width="45em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
+        <!-- Este são os ícones das linguagens nas quais tenho experiência situados na parte inferior do GIF à direita -->
+        <a href="https://www.php.net/docs.php"><img align="right" alt="Ícone do PHP" width="30em"src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/></a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference"><img align="right" alt="Ícone do JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"><img align="right" alt="Ícone das CSS" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference"><img align="right" alt="Ícone da HTML" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
+    </span>
+</div>
 <span>
-    <!-- Botão do YouTube e seu link direto -->
-    <a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-YouTube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
-    <!-- Botão do Twitter/X e seu link direto -->
-    <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
-    <!-- Botão do Medium e seu link direto -->
-    <a href="https://gui-cordeiro.medium.com/"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Link do Medium Pessoal"></a>
-    <!-- Botão do LinkedIn e seu link direto -->
-    <a href="https://bit.ly/3vkdnyw"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn Pessoal"></a>
-    <!-- Botão do Gmail e seu link direto para entrar em contato -->
-    <a href="mailto: guisg.cordeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23bf0d00?style=for-the-badge&logo=gmail&logoColor=white" alt="Link do e-mail para contato"></a>
-</span>
-
-<span>
-    <!-- Este é um outro ícone transparente que irá "centralizar" os ícones seguintes -->
-    <a href="#"><img align="right" alt="Ícone transparente" width="45em" height="20em" src="https://user-images.githubusercontent.com/83349463/151667763-eed1f9e2-ff23-462e-be41-a6046ad8434a.png"/></a>
-    <!-- Este são os ícones das linguagens nas quais tenho experiência situados na parte inferior do GIF à direita -->
-    <a href="https://www.php.net/docs.php"><img align="right" alt="Ícone do PHP" width="30em"src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference"><img align="right" alt="Ícone do JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"><img align="right" alt="Ícone das CSS" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference"><img align="right" alt="Ícone da HTML" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
-</span>
-<br>
-<br>
+        <!-- Botão do Gmail e seu link direto para entrar em contato -->
+        <a href="mailto: guisg.cordeiro@gmail.com"><img src="https://img.shields.io/badge/-E--mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Link do e-mail para contato"></a>
+    </span>
 
 ---
 
@@ -81,7 +84,7 @@
 [![ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)](https://ytcards.demolab.com/?id=OvrxyMAQR4s&title=ESP+8266+-+Como+programar+o+ESP12+%28N%C3%ADvel+2%3A+Placa+perfurada%29&lang=ptbr&timestamp=1673557215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1511 "ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)")](https://www.youtube.com/watch?v=OvrxyMAQR4s#gh-dark-mode-only)[![ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)](https://ytcards.demolab.com/?id=OvrxyMAQR4s&title=ESP+8266+-+Como+programar+o+ESP12+%28N%C3%ADvel+2%3A+Placa+perfurada%29&lang=ptbr&timestamp=1673557215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1511 "ESP 8266 - Como programar o ESP12 (Nível 2: Placa perfurada)")](https://www.youtube.com/watch?v=OvrxyMAQR4s#gh-light-mode-only)
 [![Jornada Manjaro #5 - Configurando o Github e o PlatformIO](https://ytcards.demolab.com/?id=5xBNUDOqPsM&title=Jornada+Manjaro+%235+-+Configurando+o+Github+e+o+PlatformIO&lang=ptbr&timestamp=1667833204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1326 "Jornada Manjaro #5 - Configurando o Github e o PlatformIO")](https://www.youtube.com/watch?v=5xBNUDOqPsM#gh-dark-mode-only)[![Jornada Manjaro #5 - Configurando o Github e o PlatformIO](https://ytcards.demolab.com/?id=5xBNUDOqPsM&title=Jornada+Manjaro+%235+-+Configurando+o+Github+e+o+PlatformIO&lang=ptbr&timestamp=1667833204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1326 "Jornada Manjaro #5 - Configurando o Github e o PlatformIO")](https://www.youtube.com/watch?v=5xBNUDOqPsM#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
-<a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-Assista%20à%20mais%20vídeos-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
+<a href="https://bit.ly/MehlCorTechYT"><img src="https://img.shields.io/badge/-Assista%20à%20mais%20vídeos-%23bf0d00?style=for-the-badge&logo=youtube&logoColor=white" alt="Link do canal MehlCor Tech do YouTube"></a>
 
 #
 
