@@ -67,6 +67,8 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"><img align="right" alt="Ícone das CSS" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference"><img align="right" alt="Ícone da HTML" width="30em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
 </span>
+<br>
+<br>
 
 ---
 
