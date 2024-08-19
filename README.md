@@ -27,8 +27,8 @@
 > *"Necessitamos sempre de ambicionar alguma coisa que, alcançada,<br>não nos torna sem ambição."* <br>
 > Carlos Drummond de Andrade
 <ul>
-    <li>🧠 Atualmente busco me desenvolver como um Dev <em>Front-End</em> na<br>área de desenvolvimento web;
-    <li>📚 Tenho experiência na criação de projetos com Arduino e ESP8266,<br>com foco em <em>Internet of Things</em>, domótica e robótica;
+    <li>📚 Estudante de <strong>engenharia de controle e automação (ou mecatrônica)</strong><br>pela Universidade Federal do Rio de Janeiro;
+    <li>💡 Crio projetos utilizando Arduino e ESP8266, com foco principalmente na <br>Internet das Coisas <em>(IoT)</em>, automação e robótica;
     <li>📫 <strong><a href="mailto: guisg.cordeiro@gmail.com">Quer entrar em contato comigo?</a></strong> Acesse as minhas redes sociais<br>abaixo!
 </ul>
 <br><br>
@@ -55,8 +55,6 @@
         <a href="https://bit.ly/3vkdnyw"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn Pessoal"></a>
         <!-- Botão do Gmail e seu link direto para entrar em contato -->
         <a href="mailto: guisg.cordeiro@gmail.com"><img src="https://img.shields.io/badge/-E--mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Link do e-mail para contato"></a>
-        <!-- Botão do Twitter/X e seu link direto -->
-        <a href="https://bit.ly/3KvevsH"><img src="https://img.shields.io/badge/-Twitter-%2300ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do Twitter pessoal"></a>
         <!-- Botão do Instagram e seu link direto -->
         <a href="https://bit.ly/47eH6we"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link do Instagram pessoal"></a>
     <span>
@@ -88,6 +86,8 @@
 ### 📋 Últimos artigos publicados no meu blog do Medium:
 <div>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/0" alt="Último artigo publicado"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/1" alt="Penúltimo artigo publicado"></a>
+    <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gui-cordeiro/2" alt="Antepenúltimo artigo publicado"></a> -->
 </div>
 <br>
 <a href="https://gui-cordeiro.medium.com/"><img src="https://img.shields.io/badge/-Leia%20mais%20artigos-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Link do meu blog pessoal do Medium"></a>
@@ -104,19 +104,5 @@
 </div>
 
 #
-
-<details>
-    <summary><h3>✏️ Sobre mim</h3></summary>
-Meu nome é <strong>Guilherme Cordeiro</strong>, sou <strong>técnico em Informática</strong> formado pelo Instituto Federal do Paraná e tenho interesse em seguir na <strong>área de desenvolvimento web Front End</strong>. Durante o curso técnico, pude estudar:
-
-- Diversas linguagens de programação e de marcação, como <strong>C, Java, PHP, MySQL, HTML, CSS e JavaScript</strong>, além de poder desenvolver aplicações <strong>Android com o Android Studio</strong>;
-- A como gerenciar corretamente a criação de um software a partir das etapas de <strong>planejamento, gerenciamento, construção, implementação e manutenção de um projeto</strong>;
-- A como desenvolver ideias e utilizá-las como fonte para <strong>a criação de projetos inovadores</strong> (através dos conhecimentos técnicos adquiridos e, sobretudo, da criatividade), com o objetivo de <strong>solucionar problemas no contexto social de maneira inteligente e sustentável</strong>.
-
-Citarei alguns projetos no qual eu desenvolvi em conjunto com outros colegas (todos eles desenvolvidos com microcontroladores <em>Arduino</em> e <em>ESP8266</em>): 
-
-- A implementação de um sistema de automação residencial de baixo custo, com monitoramento local via servidor web (projeto criado e apresentado sob a forma de Trabalho de Conclusão de Curso); e
-- A implementação de uma estação meteorológica de baixo custo para monitoramento climático de locais remotos (particularmente áreas rurais) e/ou de difícil acesso, via aplicativo mobile.
-</details>
 
 <!-- Feito com ❤️ por Gui Cordeiro -->
